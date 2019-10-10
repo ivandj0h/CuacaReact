@@ -23,7 +23,7 @@ to run the server just type
 npm start
 ```
 
-of if you using yarn then you can type :
+or if you using yarn then you can type :
 
 ```bash
 yarn start
