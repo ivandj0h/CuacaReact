@@ -30,8 +30,5 @@ yarn start
 ```
 
 ## ScreenShoot
-![Dashboard](captured/index.png "This is the dashboard")
+![Dashboard](src/img/dashboard.png "This is the dashboard")
 
-![Formregister](captured/form_register.png "This is the login register")
-
-![Form login](captured/form_login.png "This is the login login")

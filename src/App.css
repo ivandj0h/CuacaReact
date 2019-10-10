@@ -7,7 +7,7 @@ body {
 }
 
 .wrapper {
-  background: linear-gradient(to right, #e67e22, #e74c3c);
+  background: linear-gradient(to right, #69b5f3, #210a85);
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -24,7 +24,8 @@ body {
 
 .title-container {
   height: 90vh;
-  background: url("img/bg.jpg") center center no-repeat;
+  /* background: url("img/bg.jpg") center center no-repeat; */
+  background-color: #fff;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -49,7 +50,7 @@ body {
 }
 
 .form-container {
-  background-color: #2c3e50;
+  background-color: #4a84be;
   height: 90vh;
   padding-top: 100px;
   padding-left: 50px;
@@ -58,7 +59,7 @@ body {
 input[type="text"] {
   background-color: transparent;
   border: 0;
-  border-bottom: solid 1px #f16051;
+  border-bottom: solid 1px #ddd;
   width: 30%;
   padding-bottom: 4px;
   color: #fff !important;
@@ -87,7 +88,7 @@ button {
   letter-spacing: 1px;
   font-size: 15px;
   cursor: pointer;
-  background-color: #f16051;
+  background-color: #4056db;
   color: #fff;
   font-weight: 100;
 }
@@ -104,7 +105,7 @@ button:active {
 }
 
 .weather__key {
-  color: #f16051;
+  color: #2c3e50;
   border-bottom: solid 2px rgba(255,255,255,0.06);
   padding: 20px 0 20px 0;
   font-weight: 400;
@@ -120,7 +121,7 @@ button:active {
 }
 
 .weather__error {
-  color: #f16051;
+  color: #ac0d0d;
   font-size: 20px;
   letter-spacing: 1px;
   font-weight: 200;
