@@ -71,7 +71,7 @@ input[type="text"] {
 }
 
 input[type="text"] { 
-    outline: none;
+    outliyne: none;
 }
 
 input:-webkit-autofill {
