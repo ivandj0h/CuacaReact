@@ -5,7 +5,7 @@
   "dependencies": {
     "bootstrap": "^3.4.1",
     "react": "^16.10.2",
-    "react-dev-utils": "^9.1.0",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0"
   },
